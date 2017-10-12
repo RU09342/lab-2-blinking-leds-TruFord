@@ -1,14 +1,4 @@
 
 
-https://github.com/RU09342/lab-2-blinking-leds-TruFord/blob/master/New%20folder/world-peace-or-living-in-the-pokemon-world.jpg?raw=true
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Inline-style: 
+ 
 ![alt text](https://github.com/RU09342/lab-2-blinking-leds-TruFord/blob/master/New%20folder/world-peace-or-living-in-the-pokemon-world.jpg)
-
-<img src="https://github.com/RU09342/lab-2-blinking-leds-TruFord/blob/master/New%20folder/world-peace-or-living-in-the-pokemon-world.jpg" >
-
-
-<img src="https://github.com/RU09342/lab-2-blinking-leds-ambrosen8/blob/master/Off_Board%20Blink/Assets/ButtonBlink.jpg" width="300"/>
